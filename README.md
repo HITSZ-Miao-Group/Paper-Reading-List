@@ -8,5 +8,5 @@ Repository for weekly paper reading
 | 10.31 |               -| - | - |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
-[2]:Slides/23.10.17-wm.pptx
+[2]:Slides/23.10.17-wm.pdf
 
