@@ -3,7 +3,7 @@ Repository for weekly paper reading
 ## Fall 2023
 | Date | Paper Title | Presenter | Notes |
 | --------:| ----------------------------------------------------------------------- | ----------- | ---------- |
-| 10.17 | [RPTQ: Reorder-based Post-training Quantization for Large Language Models][1] | Ming Wang | [slide][2] |
+| 10.17 | [RPTQ: Reorder-based Post-training Quantization for Large Language Models][1] | Ming Wang | [Slide][2] |
 | 10.24 |               -| Jiarui Jiang | - |
 | 10.31 | [PD-Quant: Post-Training Quantization based on Prediction Difference Metric][5] | Chao Zeng | - |
 
