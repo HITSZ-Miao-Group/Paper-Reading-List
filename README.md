@@ -1,5 +1,5 @@
 # Paper-Group-Reading
-Repository for weekly paper reading
+Repository for Miao's group weekly paper reading
 ## Fall 2023
 | Date | Paper Title | Presenter | Notes |
 | --------:| ----------------------------------------------------------------------- | ----------- | ---------- |
