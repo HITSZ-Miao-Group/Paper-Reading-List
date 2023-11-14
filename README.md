@@ -7,7 +7,8 @@ Repository for Miao's group weekly paper reading
 | 10.24 | [Benign Overfitting in Two-layer Convolutional Neural Networks][3] | Jiarui Jiang | [Slide][4] |
 | 10.31 | [PD-Quant: Post-Training Quantization based on Prediction Difference Metric][5] | Chao Zeng | [Slide][6] |
 | 11.07 | [Real-World Image Super-Resolution as Multi-Task Learning][7] | Junpeng Jiang | [Slide][8] |
-| 11.14 | [LLM-Pruner: On the Structural Pruning of Large Language Models][9] | Hongrong Cheng | [Slide] |
+| 11.14 | [LLM-Pruner: On the Structural Pruning of Large Language Models][9] | Hongrong Cheng | [Slide][10] |
+| 11.21 | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers][11] | Jiaqi Zhao | [Slide] |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -18,3 +19,5 @@ Repository for Miao's group weekly paper reading
 [7]:https://openreview.net/pdf?id=8SCz56sUGP
 [8]:Slides/23.11.07-junpeng.pdf
 [9]:https://arxiv.org/pdf/2305.11627.pdf
+[10]:Slides/23.11.14-chr.pdf
+[11]:https://arxiv.org/pdf/2210.17323.pdf
