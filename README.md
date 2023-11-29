@@ -9,7 +9,7 @@ Repository for Miao's group weekly paper reading
 | 11.07 | [Real-World Image Super-Resolution as Multi-Task Learning][7] | Junpeng Jiang | [Slide][8] |
 | 11.14 | [LLM-Pruner: On the Structural Pruning of Large Language Models][9] | Hongrong Cheng | [Slide][10] |
 | 11.21 | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers][11] | Jiaqi Zhao | [Slide][12] |
-| 11.28 |  | Qianlong Xiang | [Slide] |
+| 11.28 | [Denoising Diffusion Probabilistic Models][13] | Qianlong Xiang | [Slide][14] |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -23,3 +23,5 @@ Repository for Miao's group weekly paper reading
 [10]:Slides/23.11.14-chr.pdf
 [11]:https://arxiv.org/pdf/2210.17323.pdf
 [12]:Slides/23.11.21-zjq.pdf
+[13]:https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html
+[14]:Slides/23.11.28-xql.pdf
