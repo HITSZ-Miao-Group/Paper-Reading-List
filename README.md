@@ -10,6 +10,7 @@ Repository for Miao's group weekly paper reading
 | 11.14 | [LLM-Pruner: On the Structural Pruning of Large Language Models][9] | Hongrong Cheng | [Slide][10] |
 | 11.21 | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers][11] | Jiaqi Zhao | [Slide][12] |
 | 11.28 | [Denoising Diffusion Probabilistic Models][13] | Qianlong Xiang | [Slide][14] |
+| 12.12 | [SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot][15] | Liyang Zheng | [Slide][16] |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -25,3 +26,5 @@ Repository for Miao's group weekly paper reading
 [12]:Slides/23.11.21-zjq.pdf
 [13]:https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html
 [14]:Slides/23.11.28-xql.pdf
+[15]:https://proceedings.mlr.press/v202/frantar23a.html
+[16]:Slides/23.12.12-zly.pdf
