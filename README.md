@@ -11,6 +11,7 @@ Repository for Miao's group weekly paper reading
 | 11.21 | [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers][11] | Jiaqi Zhao | [Slide][12] |
 | 11.28 | [Denoising Diffusion Probabilistic Models][13] | Qianlong Xiang | [Slide][14] |
 | 12.12 | [SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot][15] | Liyang Zheng | [Slide][16] |
+| 12.19 | [Transformer-based model for symbolic regression via joint supervised learning ][17] | Ji Shi | [Slide][18] |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -28,3 +29,5 @@ Repository for Miao's group weekly paper reading
 [14]:Slides/23.11.28-xql.pdf
 [15]:https://proceedings.mlr.press/v202/frantar23a.html
 [16]:Slides/23.12.12-zly.pdf
+[17]:https://openreview.net/forum?id=ULzyv9M1j5
+[18]:Slides/23.12.19-sj.pdf
