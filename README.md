@@ -42,4 +42,4 @@ Repository for Miao's group weekly paper reading
 [19]:https://arxiv.org/pdf/2309.15505.pdf
 [20]:Slides/23.12.26-zlx.pdf
 [21]:https://openreview.net/pdf?id=FVhmnvqnsI
-[22]:Slides/24.2.16-cyd.pdf
+[22]:Slides/24.1.16-cyd.pdf
