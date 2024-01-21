@@ -12,6 +12,14 @@ Repository for Miao's group weekly paper reading
 | 11.28 | [Denoising Diffusion Probabilistic Models][13] | Qianlong Xiang | [Slide][14] |
 | 12.12 | [SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot][15] | Liyang Zheng | [Slide][16] |
 | 12.19 | [Transformer-based model for symbolic regression via joint supervised learning ][17] | Ji Shi | [Slide][18] |
+| 12.26 | [FINITE SCALAR QUANTIZATION:VQ-VAE MADE SIMPLE][19] | Lexiao Zou | [Slide][20] |
+
+
+## Spring 2024
+| Date | Paper Title | Presenter | Notes |
+| --------:| ----------------------------------------------------------------------- | ----------- | ---------- |
+| 1.16 | [Multisize Dataset Condensation][21] | Yanda Chen | [Slide][22] |
+
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -31,3 +39,7 @@ Repository for Miao's group weekly paper reading
 [16]:Slides/23.12.12-zly.pdf
 [17]:https://openreview.net/forum?id=ULzyv9M1j5
 [18]:Slides/23.12.19-sj.pdf
+[19]:https://arxiv.org/pdf/2309.15505.pdf
+[20]:Slides/23.12.26-zlx.pdf
+[21]:https://openreview.net/pdf?id=FVhmnvqnsI
+[22]:Slides/24.2.16-cyd.pdf
