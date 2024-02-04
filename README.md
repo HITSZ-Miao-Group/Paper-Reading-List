@@ -18,7 +18,7 @@ Repository for Miao's group weekly paper reading
 
 ## Spring 2024
 | Date | Paper Title | Presenter | Notes |
-| :-------:| :---------------------------------------------------------------------- | :---------- | ---------- |
+| -------:| ---------------------------------------------------------------------- | ---------- | ---------- |
 | 1.16 | [Multisize Dataset Condensation][21] | Yanda Chen | [Slide][22] |
 | 1.23 | [HOW DOES SEMI-SUPERVISED LEARNING WITH PSEUDO-LABELERS WORK? A CASE STUDY][23] | Jiarui Jiang | [Slide][24] |
 | 1.30 | [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling][25] | Chao Zeng | [Slide][26] |
