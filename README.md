@@ -55,5 +55,5 @@ Repository for Miao's group weekly paper reading
 [27]: https://openreview.net/forum?id=osoWxY8q2E
 [28]: Slides/24.2.6-wm.pdf
 [29]:https://arxiv.org/abs/2310.00034
-[30]:Slides//24.3.12-zjq.pdf
+[30]:Slides//24.3.10-zjq.pdf
 
