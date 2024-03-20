@@ -61,6 +61,5 @@ Repository for Miao's group weekly paper reading
 
 [31]: https://arxiv.org/abs/2402.10491
 [32]: Slides//24.3.19-jjp.pdf
-[33]: 
 [34]: Slides//24.3.26-zlx.pdf
 
