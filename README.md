@@ -25,6 +25,8 @@ Repository for Miao's group weekly paper reading
 | 1.30 | [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling][25] | Chao Zeng | [Slide][26] |
 | 3.5 | [ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models][27] | Ming Wang | [Slide][28] |
 | 3.12 | [PB-LLM: Partially Binarized Large Language Models][29] | Jiaqi Zhao | [Slide][30] |
+| 3.19 | [Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation][31] | Junpeng  Jiang | [Slide][32] |
+| 3.26 |  | Lexiao Zou | [Slide][34] |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -56,4 +58,9 @@ Repository for Miao's group weekly paper reading
 [28]: Slides/24.2.6-wm.pdf
 [29]:https://arxiv.org/abs/2310.00034
 [30]:Slides//24.3.10-zjq.pdf
+
+[31]: https://arxiv.org/abs/2402.10491
+[32]: Slides//24.3.19-jjp.pdf
+[33]: 
+[34]: Slides//24.3.26-zlx.pdf
 
