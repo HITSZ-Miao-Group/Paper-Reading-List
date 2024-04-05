@@ -27,7 +27,8 @@ Repository for Miao's group weekly paper reading
 | 3.12 | [PB-LLM: Partially Binarized Large Language Models][29] | Jiaqi Zhao | [Slide][30] |
 | 3.19 | [Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation][31] | Junpeng  Jiang | [Slide][32] |
 | 3.26 | [Massive Activations in Large Language Models][33] | Lexiao Zou | [Slide][34] |
-| 4.2 |  | Hongrong Cheng | [Slide][36] |
+| 4.2 | [A Single Linear Layer Yields Task-Adapted Low-Rank Matrices][35]<br />[VERA: Vector-based Random Matrix Adaption][36]<br />[Low-rank Residual Structure for Parameter-Efficient Network Stacking][37] | Hongrong Cheng | [Slide][38] |
+| 4.9 |  | Qianlong Xiang | [Slide][40] |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -64,6 +65,10 @@ Repository for Miao's group weekly paper reading
 [32]: Slides//24.3.19-jjp.pdf
 [33]: https://arxiv.org/abs/2402.17762
 [34]: Slides//24.3.26-zlx.pdf
+[35]: https://arxiv.org/abs/2403.14946
+[36]: https://arxiv.org/abs/2310.11454
+[37]: https://arxiv.org/abs/2403.04303
+[38]: Slides//24.4.2-chr.pdf
 
-[36]: Slides//24.4.2-chr.pdf
+[40]: Slides//24.4.9-xql.pdf
 
