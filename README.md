@@ -28,7 +28,7 @@ Repository for Miao's group weekly paper reading
 | 3.19 | [Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation][31] | Junpeng  Jiang | [Slide][32] |
 | 3.26 | [Massive Activations in Large Language Models][33] | Lexiao Zou | [Slide][34] |
 | 4.2 | [A Single Linear Layer Yields Task-Adapted Low-Rank Matrices][35]<br />[VERA: Vector-based Random Matrix Adaption][36]<br />[Low-rank Residual Structure for Parameter-Efficient Network Stacking][37] | Hongrong Cheng | [Slide][38] |
-| 4.9 |  | Qianlong Xiang | [Slide][40] |
+| 4.9 | [Elucidating the Exposure Bias in Diffusion Models][39] | Qianlong Xiang | [Slide][40] |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -69,6 +69,6 @@ Repository for Miao's group weekly paper reading
 [36]: https://arxiv.org/abs/2310.11454
 [37]: https://arxiv.org/abs/2403.04303
 [38]: Slides//24.4.2-chr.pdf
-
+[39]: https://arxiv.org/abs/2308.15321
 [40]: Slides//24.4.9-xql.pdf
 
