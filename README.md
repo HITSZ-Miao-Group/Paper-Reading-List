@@ -29,6 +29,7 @@ Repository for Miao's group weekly paper reading
 | 3.26 | [Massive Activations in Large Language Models][33] | Lexiao Zou | [Slide][34] |
 | 4.2 | [A Single Linear Layer Yields Task-Adapted Low-Rank Matrices][35]<br />[VERA: Vector-based Random Matrix Adaption][36]<br />[Low-rank Residual Structure for Parameter-Efficient Network Stacking][37] | Hongrong Cheng | [Slide][38] |
 | 4.9 | [Elucidating the Exposure Bias in Diffusion Models][39] | Qianlong Xiang | [Slide][40] |
+| 4.16 | [COMPRESSING LLMS: THE TRUTH IS RARELY PURE AND NEVER SIMPLE][41] | Liyang Zheng | [Slide][42] |
 
 [1]:https://arxiv.org/pdf/2304.01089.pdf
 [2]:Slides/23.10.17-wm.pdf
@@ -71,4 +72,6 @@ Repository for Miao's group weekly paper reading
 [38]: Slides//24.4.2-chr.pdf
 [39]: https://arxiv.org/abs/2308.15321
 [40]: Slides//24.4.9-xql.pdf
+[41]: https://openreview.net/pdf?id=B9klVS7Ddk
+[42]: Slides//24.4.16-zly.pdf
 
